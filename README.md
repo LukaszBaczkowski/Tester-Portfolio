@@ -11,7 +11,7 @@ entrusted to me in a challenging manner and I find myself well working in a
 team.
 
 <h3>Courses</h3>
-<li>uTest Academy</li>
-<li>Praktyczny kurs testowania oprogramowania - Udemy</li>
-<li>uTest Academy</li>
-<li>uTest Academy</li>
+<li>2022-01 - uTest Academy</li>
+<li>2021-12 - Praktyczny kurs testowania oprogramowania - Udemy</li>
+<li>2020-06 - Zaawansowany front-end - Samuraj programowania</li>
+<li>2020-04 - Web developer od podstaw - Samuraj programowaniauTest Academy</li>
