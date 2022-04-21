@@ -11,3 +11,7 @@ entrusted to me in a challenging manner and I find myself well working in a
 team.
 
 <h3>Courses</h3>
+<li>uTest Academy</li>
+<li>Praktyczny kurs testowania oprogramowania - Udemy</li>
+<li>uTest Academy</li>
+<li>uTest Academy</li>
