@@ -15,3 +15,7 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 <li>2021-12 - Praktyczny kurs testowania oprogramowania - Udemy</li>
 <li>2020-06 - Zaawansowany front-end - Samuraj programowania</li>
 <li>2020-04 - Web developer od podstaw - Samuraj programowaniauTest Academy</li>
+
+<h2>Technical Books read</h2>
+<li>Zawód tester - Radosław Smilgin</li>
+<li>Testowanie i jakość oprogramowania - Adam Roman - not finished yet</li>
