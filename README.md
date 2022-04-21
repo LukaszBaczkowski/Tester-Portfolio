@@ -8,7 +8,7 @@ completed the uTest Academy and I am constantly expanding my knowledge
 by participating in courses on learning platforms such as Udemy and LinkedIn
 Learning. I am a meticulous and conscientious person, I approach tasks
 entrusted to me in a challenging manner and I find myself well working in a
-team.
+team. Besides testing, I also ran a small coffee shop and graduated from the School of Banking with a degree in Business Management.
 
 <h3>Courses</h3>
 <li>2022-01 - uTest Academy</li>
