@@ -1,3 +1,4 @@
+<background color="red">
 <h1>Manual tester portfolio</h1>
 
 <h2>About me</h2>
