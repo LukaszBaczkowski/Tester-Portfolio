@@ -11,11 +11,18 @@ entrusted to me in a challenging manner and I find myself well working in a
 team. Besides testing, I also ran a small coffee shop and graduated from the School of Banking with a degree in Business Management.
 
 <h2>Courses</h2>
-<li>2022-01 - uTest Academy</li>
-<li>2021-12 - Praktyczny kurs testowania oprogramowania - Udemy</li>
-<li>2020-06 - Zaawansowany front-end - Samuraj programowania</li>
-<li>2020-04 - Web developer od podstaw - Samuraj programowaniauTest Academy</li>
+<li>2022-05 - "Warsztaty: Testowanie manualne aplikacji" - czyitjestdlamnie.pl</li>
+<li>2022-05 - "Warsztaty: Testowanie API HTTP" - czyitjestdlamnie.pl</li>
+<li>2022-01 -  uTest Academy</li>
+<li>2021-12 - "Praktyczny kurs testowania oprogramowania" - Udemy</li>
+<li>2020-06 - "Zaawansowany front-end" - Samuraj programowania</li>
+<li>2020-04 - "Web developer od podstaw" - Samuraj programowania</li>
 
-<h2>Technical Books read</h2>
-<li>Zawód tester - Radosław Smilgin</li>
-<li>Testowanie i jakość oprogramowania - Adam Roman - not finished yet</li>
+<h2>Technical books read</h2>
+<li>"Zawód tester" - Radosław Smilgin</li>
+<li>"Testowanie i jakość oprogramowania" - Adam Roman - not finished yet</li>
+
+<h2>Tech stack</h2>
+<li>Languages lvl basic: HTML, CSS, JavaScript, SQL </li>
+<li>Tools: JIRA, Trello, TestLink, Visual Studio Code</li>
+<li>Basics of Docker and Postman</li>
