@@ -53,3 +53,4 @@ Tools:
 <h2>My bug reports</h2>
 <a href="https://github.com/LukaszBaczkowski/Bug-reports" target="_blank">Bug reports</a>
 <h2>My projects</h2>
+<a href="https://github.com/LukaszBaczkowski/Projects" target="_blank">Projects</a>
