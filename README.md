@@ -8,7 +8,7 @@ completed the uTest Academy and I am constantly expanding my knowledge
 by participating in courses on learning platforms such as Udemy and LinkedIn
 Learning. I am a meticulous and conscientious person, I approach tasks
 entrusted to me in a challenging manner and I find myself well working in a
-team. Besides testing, I also ran a small coffee shop and graduated from the School of Banking with a degree in Business Management.
+team. Besides testing, I also ran a small coffee shop and graduated from the School of Banking with a degree in Business Management. In my free time, I analyze the cryptocurrency market.
 
 <h2>Courses</h2>
 <li>2022-05 - "Warsztaty: Testowanie manualne aplikacji" - czyitjestdlamnie.pl</li>
@@ -28,7 +28,14 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 <li>Functional testing of web and mobile app</li>
 <li>Finding uniqe CSS Selectors and xPaths</li>
 Languages lvl basic:
-<li>HTML</li>, CSS, JavaScript, SQL </li>
-<li>Tools: JIRA, Trello, TestLink, Visual Studio Code</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>SQL</li>
+Tools:
+<li>JIRA</li> 
+<li>Trello</li>
+<li>TestLink</li>
+<li>Visual Studio Code</li>
 <li>Basics of Docker and Postman</li>
 <li>Familiarity with Photoshop and Cinema 4D</li>
