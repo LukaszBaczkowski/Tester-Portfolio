@@ -30,13 +30,13 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 <li>Basics of RestAPI testing</li>
 <li>Basics of Docker</li>
 <li>Familiarity with Photoshop and Cinema 4D</li>
-
+<br>
 Languages lvl basic:
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
 <li>SQL</li>
-
+<br>
 Tools:
 <li>JIRA</li> 
 <li>Trello</li>
