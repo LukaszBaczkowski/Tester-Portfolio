@@ -51,5 +51,5 @@ Tools:
 <h2>My test cases</h2>
 
 <h2>My bug reports</h2>
-<a href='https://postimg.cc/kVnvzVn2' target='_blank'><img src='https://i.postimg.cc/GpDgBYVx/kayakmap.jpg' border='0' alt='kayakmap'/></a>
+<a href='https://github.com/LukaszBaczkowski/Bug-reports' target='_blank'></a>
 <h2>My projects</h2>
