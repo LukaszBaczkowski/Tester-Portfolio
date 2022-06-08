@@ -27,16 +27,29 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 <li>Reporting bugs</li>
 <li>Functional testing of web and mobile app</li>
 <li>Finding uniqe CSS Selectors and xPaths</li>
+<li>Basics of RestAPI testing</li>
+<li>Basics of Docker</li>
+<li>Familiarity with Photoshop and Cinema 4D</li>
+
 Languages lvl basic:
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
 <li>SQL</li>
+
 Tools:
 <li>JIRA</li> 
 <li>Trello</li>
 <li>TestLink</li>
 <li>Visual Studio Code</li>
-<li>Basics of Docker and Postman</li>
-<li>Familiarity with Photoshop and Cinema 4D</li>
-* [guru99.com](https://www.guru99.com)
+<li>PicPick</li>
+<li>ShareX</li>
+<li>HandBrake</li>
+<li>Postman</li>
+
+
+<h2>My test cases</h2>
+
+<h2>My bug reports</h2>
+
+<h2>My projects</h2>
