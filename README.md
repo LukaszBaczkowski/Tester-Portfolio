@@ -39,3 +39,4 @@ Tools:
 <li>Visual Studio Code</li>
 <li>Basics of Docker and Postman</li>
 <li>Familiarity with Photoshop and Cinema 4D</li>
+* [guru99.com](https://www.guru99.com)
