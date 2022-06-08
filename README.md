@@ -23,6 +23,12 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 <li>"Testowanie i jakość oprogramowania" - Adam Roman - not finished yet</li>
 
 <h2>Tech stack</h2>
-<li>Languages lvl basic: HTML, CSS, JavaScript, SQL </li>
+<li>Creating test cases</li>
+<li>Reporting bugs</li>
+<li>Functional testing of web and mobile app</li>
+<li>Finding uniqe CSS Selectors and xPaths</li>
+Languages lvl basic:
+<li>HTML</li>, CSS, JavaScript, SQL </li>
 <li>Tools: JIRA, Trello, TestLink, Visual Studio Code</li>
 <li>Basics of Docker and Postman</li>
+<li>Familiarity with Photoshop and Cinema 4D</li>
