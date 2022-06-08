@@ -51,5 +51,5 @@ Tools:
 <h2>My test cases</h2>
 
 <h2>My bug reports</h2>
-<a href='https://github.com/LukaszBaczkowski/Bug-reports' target='_blank'></a>
+<a href="https://github.com/LukaszBaczkowski/Bug-reports">Bug reports</a>
 <h2>My projects</h2>
