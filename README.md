@@ -26,7 +26,7 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 <li>Creating test cases</li>
 <li>Reporting bugs</li>
 <li>Functional testing of web and mobile app</li>
-<li>Finding uniqe CSS Selectors and xPaths</li>
+<li>Finding CSS Selectors and xPaths</li>
 <li>Basics of RestAPI testing</li>
 <li>Basics of Docker</li>
 <li>Familiarity with Photoshop and Cinema 4D</li>
@@ -51,5 +51,5 @@ Tools:
 <h2>My test cases</h2>
 
 <h2>My bug reports</h2>
-
+<a href='https://postimg.cc/kVnvzVn2' target='_blank'><img src='https://i.postimg.cc/GpDgBYVx/kayakmap.jpg' border='0' alt='kayakmap'/></a>
 <h2>My projects</h2>
