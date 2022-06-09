@@ -25,11 +25,13 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 <h2>Tech stack</h2>
 <li>Creating test cases</li>
 <li>Reporting bugs</li>
+<li>Collecting logs from mobile and web app</li>
 <li>Functional testing of web and mobile app</li>
 <li>Finding CSS Selectors and xPaths</li>
 <li>Basics of RestAPI testing</li>
 <li>Basics of Docker</li>
-<li>Familiarity with Photoshop and Cinema 4D</li>
+
+
 <br>
 Languages lvl basic:
 <li>HTML</li>
@@ -46,6 +48,8 @@ Tools:
 <li>ShareX</li>
 <li>HandBrake</li>
 <li>Postman</li>
+<br>
+<li>Familiarity with Photoshop and Cinema 4D</li>
 
 <h2>My test cases</h2>
 <a href="https://github.com/LukaszBaczkowski/Test-Cases" target="_blank">Test cases</a>
