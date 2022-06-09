@@ -47,9 +47,9 @@ Tools:
 <li>HandBrake</li>
 <li>Postman</li>
 
-
+https://github.com/LukaszBaczkowski/Test-Cases
 <h2>My test cases</h2>
-
+<a href="https://github.com/LukaszBaczkowski/Test-Cases" target="_blank">Bug reports</a>
 <h2>My bug reports</h2>
 <a href="https://github.com/LukaszBaczkowski/Bug-reports" target="_blank">Bug reports</a>
 <h2>My projects</h2>
