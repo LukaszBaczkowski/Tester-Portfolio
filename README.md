@@ -31,14 +31,12 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 * Basics of RestAPI testing
 * Basics of Docker
 
-
-<br>
 ### Languages lvl basic:
 * HTML
 * CSS
 * JavaScript
 * SQL
-<br>
+
 ### Tools:
 * JIRA 
 * Trello
