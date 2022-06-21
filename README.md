@@ -47,11 +47,15 @@ team. Besides testing, I also ran a small coffee shop and graduated from the Sch
 * HandBrake
 * Postman
 >
+>
 * Familiarity with Photoshop and Cinema 4D
 
 ## My test cases
-<a href="https://github.com/LukaszBaczkowski/Test-Cases" target="_blank">Test cases</a>
+[Test cases](https://github.com/LukaszBaczkowski/Test-Cases)
+
 ## My bug reports
-<a href="https://github.com/LukaszBaczkowski/Bug-reports" target="_blank">Bug reports</a>
+[Bug reports](https://github.com/LukaszBaczkowski/Bug-reports)
+
 ## My projects
-<a href="https://github.com/LukaszBaczkowski/Projects" target="_blank">Projects</a>
+[Projects](https://github.com/LukaszBaczkowski/Projects)
+
