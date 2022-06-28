@@ -6,11 +6,10 @@ Currently I am trying to gain practical experience on the uTest platform,
 mainly performing functional tests of mobile and web applications. I have fully
 completed the uTest Academy and I am constantly expanding my knowledge
 by participating in courses on learning platforms such as Udemy and LinkedIn
-Learning. I am a meticulous and conscientious person, I approach tasks
-entrusted to me in a challenging manner and I find myself well working in a
-team. Besides testing, I also ran a small coffee shop and graduated from the School of Banking with a degree in Business Management. In my free time, I analyze the cryptocurrency market.
+Learning. Team player. Besides testing, I also ran a small coffee shop and graduated from the School of Banking with a degree in Business Management. In my free time, I analyze the cryptocurrency market.
 
-## Courses
+## Courses & Certifications
+* 2022-06 - Certificate: Jira Fundamentals Badge - ID: 213988707 - Atlassian
 * 2022-05 - "Warsztaty: Testowanie manualne aplikacji" - czyitjestdlamnie.pl
 * 2022-05 - "Warsztaty: Testowanie API HTTP" - czyitjestdlamnie.pl
 * 2022-01 -  uTest Academy
